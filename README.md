@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uycode&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 </p>
 
+![Metrics](https://metrics.lecoq.io/uycode)
