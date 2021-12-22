@@ -26,14 +26,15 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uycode&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 </p>
 
+<!--
 <p align="center">
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/51705622ebdc37f43bba16e04cc8d6dd0441d7d51b730a95e6ea29300471d2df/68747470733a2f2f6d6574726963732e6c65636f712e696f2f7579636f6465">
   <img src="https://camo.githubusercontent.com/51705622ebdc37f43bba16e04cc8d6dd0441d7d51b730a95e6ea29300471d2df/68747470733a2f2f6d6574726963732e6c65636f712e696f2f7579636f6465" alt="Metrics" data-canonical-src="https://metrics.lecoq.io/uycode" style="max-width: 100%; max-height: 100%;">
 </p>
 
-<!-- ![Metrics](https://metrics.lecoq.io/uycode) -->
+ ![Metrics](https://metrics.lecoq.io/uycode) -->
 
-<h1 align="center">كەلگەن قەدەملىرىڭىزگە مەرھابا دوستۇم</h1>
+<h1 align="center" style="font-family: 'Noto Kufi Arabic', sans-serif;">كەلگەن قەدەملىرىڭىزگە مەرھابا دوستۇم</h1>
 
 <p align=center>
 
