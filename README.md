@@ -42,9 +42,3 @@ Here are some ideas to get you started:
   <img src="https://activity-graph.herokuapp.com/graph?username=uycode&bg_color=151515&color=ffffff&line=f18900&point=5ac465&area=true&hide_border=true" width="100%"/>
 </p>
 
-<p align=center>
-
-  <br>
-<img src="https://wakatime.com/share/@545bcdfa-aee1-4e2b-97e6-962f748706eb/83c7efb7-e21f-4741-ac11-c9dd25fb75e5.svg"></img>
-</p>
-
