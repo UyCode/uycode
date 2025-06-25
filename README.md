@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <a href="https://www.tograk.tech">Personal Website Tograk 🏝️</a>
 </p>
 <p align="center">
-  🇨🇳 China Changsha・🕹 Back-end developer
+  🇨🇳 China Shanghai・🕹 Full-Stack developer
   <a href="https://uycode.github.io" target="_blank">@UyCode</a> 
 </p>
 
